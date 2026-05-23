@@ -22,7 +22,7 @@ Built an interactive retail sales dashboard using MySQL and Power BI to analyze:
 - Interactive Filters
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1344" height="754" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/18ca660b-6b99-4758-9675-c81754910dca" />
 
 ## Business Insights
 - West region generated highest sales
